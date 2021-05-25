@@ -67,4 +67,4 @@ Deletes a specific branch
 ```
 git branch checkout <branch name>
 ```
-Switches a to new branch
+Switches  to a new branch
